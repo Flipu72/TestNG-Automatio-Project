@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18103" started-at="2022-04-04T08:34:48 CDT" finished-at="2022-04-04T08:35:06 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18103" started-at="2022-04-04T08:34:48 CDT" finished-at="2022-04-04T08:35:06 CDT">
+      <class name="test.CandDTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:test.CandDTest@2a742aa2]" name="startBrowser" is-config="true" duration-ms="8635" started-at="2022-04-04T08:34:48 CDT" finished-at="2022-04-04T08:34:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="validateCategory()[pri:1, instance:test.CandDTest@2a742aa2]" name="validateCategory" duration-ms="2484" started-at="2022-04-04T08:34:57 CDT" finished-at="2022-04-04T08:34:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCategory -->
+        <test-method status="PASS" signature="userisnotabletoaddaduplicatedcategory()[pri:2, instance:test.CandDTest@2a742aa2]" name="userisnotabletoaddaduplicatedcategory" duration-ms="1326" started-at="2022-04-04T08:34:59 CDT" finished-at="2022-04-04T08:35:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userisnotabletoaddaduplicatedcategory -->
+        <test-method status="PASS" signature="userValidatethemonthdropdownhasallthemonths()[pri:3, instance:test.CandDTest@2a742aa2]" name="userValidatethemonthdropdownhasallthemonths" duration-ms="1183" started-at="2022-04-04T08:35:01 CDT" finished-at="2022-04-04T08:35:02 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidatethemonthdropdownhasallthemonths -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.CandDTest@2a742aa2]" name="closeBrowser" is-config="true" duration-ms="4335" started-at="2022-04-04T08:35:02 CDT" finished-at="2022-04-04T08:35:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.CandDTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
